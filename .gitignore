@@ -109,4 +109,4 @@ venv.bak/
 
 # test django
 
-/purbeurre/polls
+#/purbeurre/polls
